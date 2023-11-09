@@ -55,3 +55,7 @@
 
 3. 映像撮影
    githubのプロジェクト設計、構造紹介→eclipseに内蔵されたtomcatによるアプリケーション試演→あらかじめ設定しておいたawsインスタンスによる配布
+
+
+4. github
+   https://github.com/JU-jeong/portfoliogenuine
