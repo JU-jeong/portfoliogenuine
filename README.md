@@ -1,8 +1,12 @@
 # portfoliogenuine
 0. 製作目的
    ポートフォリオの掲示板化。 持っているスタックを通じた自己紹介用掲示板製作とawsを通じた配布過程まで進行する。
+
+
 1. 製作期間
    231106~231109(実施中)
+
+
 2. 技術スタック
    <!DOCTYPE html>
 <html lang="en">
@@ -37,8 +41,12 @@
 
 <!-- Putty Badge -->
 <img src="https://img.shields.io/badge/Putty-0076C8?style=for-the-badge&logo=putty&logoColor=white" alt="Putty Badge">
-   
+
+<br><br>
+
 </body>
 </html>
+
+
 3. 映像撮影
    githubのプロジェクト設計、構造紹介→eclipseに内蔵されたtomcatによるアプリケーション試演→あらかじめ設定しておいたawsインスタンスによる配布
