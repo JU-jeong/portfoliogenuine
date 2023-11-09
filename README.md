@@ -7,7 +7,7 @@
    <!DOCTYPE html>
 <html lang="en">
 <style>
-    .haire {text-indent : 20px};
+    .haire {text-indent : 20px;}
 </style>
 <head>
     <meta charset="UTF-8">
