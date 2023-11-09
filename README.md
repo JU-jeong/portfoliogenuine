@@ -14,10 +14,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-
+   <p class = "haire">
 <!-- Java Badge -->
   
-   <class = "haire" img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
+   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
 
 <!-- JSP Badge -->
    <img src="https://img.shields.io/badge/JSP-FF0000?style=for-the-badge&logoColor=white" alt="JSP Badge">
@@ -42,7 +42,7 @@
 
 <!-- Putty Badge -->
 <img src="https://img.shields.io/badge/Putty-0076C8?style=for-the-badge&logo=putty&logoColor=white" alt="Putty Badge">
-
+   </p>
 </body>
 </html>
 6. 영상촬영 (이클립스 동작확인)->(Aws배포과정 실패 보여주기)
