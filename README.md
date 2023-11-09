@@ -6,6 +6,9 @@
 4. 기술스택
    <!DOCTYPE html>
 <html lang="en">
+<style>
+    .haire {text-indent : 20px};
+</style>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,9 +16,8 @@
 <body>
 
 <!-- Java Badge -->
-   text-indent : 20px;
-
-text-indent : 5%;<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
+  
+   <class = "haire" img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
 
 <!-- JSP Badge -->
    <img src="https://img.shields.io/badge/JSP-FF0000?style=for-the-badge&logoColor=white" alt="JSP Badge">
