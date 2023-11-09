@@ -3,8 +3,10 @@
    ポートフォリオの掲示板化。 持っているスタックを通じた自己紹介用掲示板製作とawsを通じた配布過程まで進行する。
 
 
+
 1. 製作期間
    231106~231109(実施中)
+
 
 
 2. 技術スタック
@@ -15,6 +17,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+   
+   <br><br>
+
 <!-- Java Badge -->
    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
 
