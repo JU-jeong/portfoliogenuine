@@ -1,23 +1,17 @@
 # portfoliogenuine
-0. 제작목적
-   포트폴리오의 게시판화. 가지고 있는 스택을 통한 자기소개용 게시판 제작과 aws를 통한 배포과정까지 진행한다.
-2. 제작기간
-   231106~231109
-4. 기술스택
+0. 製作目的
+   ポートフォリオの掲示板化。 持っているスタックを通じた自己紹介用掲示板製作とawsを通じた配布過程まで進行する。
+1. 製作期間
+   231106~231109(実施中)
+2. 技術スタック
    <!DOCTYPE html>
 <html lang="en">
-<style>
-    .haire {text-indent : 20px;}
-</style>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-   &nbsp;
-   
 <!-- Java Badge -->
-  
    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
 
 <!-- JSP Badge -->
@@ -46,4 +40,5 @@
    
 </body>
 </html>
-6. 영상촬영 (이클립스 동작확인)->(Aws배포과정 실패 보여주기)
+3. 映像撮影
+   githubのプロジェクト設計、構造紹介→eclipseに内蔵されたtomcatによるアプリケーション試演→あらかじめ設定しておいたawsインスタンスによる配布
