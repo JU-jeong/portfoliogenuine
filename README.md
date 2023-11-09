@@ -1,2 +1,5 @@
 # portfoliogenuine
-can we make it till 8th?
+0. 제작목적
+1. 제작기간
+2. 기술스택
+3. 영상촬영 (이클립스 동작확인)->(Aws배포과정 실패 보여주기)
