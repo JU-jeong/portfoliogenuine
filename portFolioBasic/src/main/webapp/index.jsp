@@ -81,7 +81,7 @@ a {
 	<br>
 	<br>
 	<div class="container">
-		<h1>게시판 목록</h1>
+		<h1>About Myself</h1>
 		<ul>
 			<li><a href="Profile.html">Profile</a></li>
 			<li><a href="What I Done.jsp">What I Done</a></li>
