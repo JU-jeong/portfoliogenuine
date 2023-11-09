@@ -13,7 +13,9 @@
 <body>
 
 <!-- Java Badge -->
-   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
+   text-indent : 20px;
+
+text-indent : 5%;<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
 
 <!-- JSP Badge -->
    <img src="https://img.shields.io/badge/JSP-FF0000?style=for-the-badge&logoColor=white" alt="JSP Badge">
