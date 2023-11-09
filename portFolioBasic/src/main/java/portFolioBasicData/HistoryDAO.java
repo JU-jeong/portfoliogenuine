@@ -26,8 +26,6 @@ public class HistoryDAO {
 			e.printStackTrace();
 		}
 	}
-	//C:\Users\microsoft\Downloads\portfoliogenuinekey
-	//ssh -i "portfoliogenuinekey.pem" ubuntu@ec2-52-78-173-13.ap-northeast-2.compute.amazonaws.com
 	public List listMembers() {
 		List list = new ArrayList();	
 		try {
